@@ -1,0 +1,9 @@
+Job Title: WMQ_77_10
+Job ID: 2016.12.15.PdRnVTzE
+Requester: rmorriss
+Query: http://dfr.jstor.org/fsearch/submitrequest?cs=disc%3Ahistory-discipline%5E1.0%7Cjcode%3Awillmaryquar%5E1.0%7Cty%3Afla%5E1.0&fs=dim1%3Ayrm1%3Atym1%3Asnm2&view=text&cc=year%3a[1977+TO+2010]^1.0
+View(s): citations|wordcounts|keyterms
+Format: XML
+Documents Requested: 1000
+Date Processed: 2016-12-15 17:24:02.156237
+

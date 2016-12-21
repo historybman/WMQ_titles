@@ -1,0 +1,4 @@
+# Ignore the xml files in wordcount and in keywords
+data/wordcounts
+data/keyterms
+data/2016.12.15.PdRnVTzE
